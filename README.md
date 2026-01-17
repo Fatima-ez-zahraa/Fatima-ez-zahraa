@@ -3,9 +3,6 @@
     <img src="https://komarev.com/ghpvc/?username=fatima-ez-zahraa&color=00D310&style=flat" alt="Profile views" />
   </a>
 </p>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00D310&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Hi+There!+👋;+I'm+Fatima ez-zahraa BENDRISS;" />
-</h1>
 
 <p align="center">
   <img src="https://giffiles.alphacoders.com/362/36249.gif" alt="Data Analysis Gif" width="60%" />
