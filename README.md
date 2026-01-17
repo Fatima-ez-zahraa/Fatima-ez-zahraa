@@ -4,10 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://giffiles.alphacoders.com/362/36249.gif" alt="Data Analysis Gif" width="60%" />
-</p>
-
 
 # About Me
 
