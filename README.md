@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Fatima ez-eahraa, a Full-Stack Developer  passionate about <br>building web applications and digital solutions. I enjoy working on both <br>frontend and backend development, exploring new technologies, and <br>improving user experiences. I have experience with Laravel, Spring Boot, <br>Angular, React, Wordpress, and AI projects. I love creating projects that<br> make a difference and learning something new every day.
+Hi! I'm Fatima ez-zahraa, a Full-Stack Developer  passionate about <br>building web applications and digital solutions. I enjoy working on both <br>frontend and backend development, exploring new technologies, and <br>improving user experiences. I have experience with Laravel, Spring Boot, <br>Angular, React, Wordpress, and AI projects. I love creating projects that<br> make a difference and learning something new every day.
 
 
 # 💻 Tech Stack:
