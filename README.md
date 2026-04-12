@@ -52,6 +52,4 @@ Thank you for visiting! Feel free to contact me for any collaboration or project
     Fatima ez-zahraa BENDRISS
 </h3>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
