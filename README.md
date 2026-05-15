@@ -1,3 +1,5 @@
+# Hi, I’m Fatima ez-zahraa
+
 # ✨ Fatima ez-zahraa
 
 🚀 Software Engineer & Data Analyst  
@@ -5,78 +7,117 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fatima-ez-zahraa&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatima-ez-zahraa&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatima-ez-zahraa&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-I’m a **Software Engineer & Data Analyst** passionate about bridging the gap between **software engineering, data analytics, and business intelligence**.
+I’m a **Software Engineer & Data Analyst** passionate about combining **software engineering, data analytics, and business intelligence**.
 
-I focus on building solutions that transform **raw data into actionable insights** and scalable applications.
+I design systems that transform **data into decisions** and applications into **insight-driven tools**.
 
 💡 What I do:
-- 📊 Data analysis & visualization
-- 📈 Business Intelligence dashboards
-- ⚙️ Backend development & APIs
-- 🗄️ Database design & administration (Oracle – Junior DBA)
-- 🤖 Data-driven & automation systems
+- 📊 Data analysis & visualization  
+- 📈 BI dashboards & reporting  
+- ⚙️ Backend development & APIs  
+- 🗄️ Database management (Oracle – Junior DBA)  
+- 🤖 Data-driven automation systems  
 
-🎯 Goal: Build **smart, data-powered applications** that help organizations make better decisions.
+ Goal: Build **smart, scalable, and data-powered solutions**.
 
 ---
 
-## 💻 Tech Stack
+##  Featured Projects
 
-### 📊 Data & Analytics
+###  Smart BI Dashboard
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-Analytics-336791?style=for-the-badge"/>
+</p>
+
+🔹 Interactive business intelligence dashboard  
+🔹 Data cleaning + transformation pipeline  
+🔹 KPI visualization for decision making  
+
+---
+
+###  Data Analysis Platform
+<p>
+  <img src="https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+🔹 End-to-end data analysis workflow  
+🔹 Data preprocessing & visualization  
+🔹 Insight extraction for business use cases  
+
+---
+
+### ⚙️ Full Stack Web App
+<p>
+  <img src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+🔹 Full-stack web application  
+🔹 REST API integration  
+🔹 Responsive UI & modern UX  
+
+---
+
+###  Database Management System
+<p>
+  <img src="https://img.shields.io/badge/Oracle-DBA-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+🔹 Database design & optimization  
+🔹 Query tuning & performance improvement  
+🔹 Data modeling & administration  
+
+---
+
+##  Tech Stack
+
+###  Data & Analytics
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+###  Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge)
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### 🧰 Tools & DevOps
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-black?style=for-the-badge)
-
-### 🤖 Data / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+###  Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
 
 ---
 
 ## 📈 Focus Areas
-- 📊 Business Intelligence & Data Visualization  
-- 🧠 Data Engineering & Analytics  
+- 📊 Business Intelligence & Dashboards  
+- 🧠 Data Analytics & Engineering  
 - ⚙️ Backend Systems & APIs  
-- 🤖 AI & Machine Learning Applications  
-- ☁️ Scalable Data Architectures  
+- 🤖 AI & Machine Learning  
+- ☁️ Scalable Architectures  
 
 ---
 
@@ -84,7 +125,7 @@ I focus on building solutions that transform **raw data into actionable insights
 > “Data is not just numbers, it’s decisions waiting to happen.” 
 ---
 
-## 🌐 Connect With Me 
+##  Connect With Me 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bendrissfatima-ez-zahraa/" target="blank">
