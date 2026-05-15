@@ -4,18 +4,6 @@
 🚀 Software Engineer & Data Analyst  
 Turning data into insights • Building intelligent digital systems • BI & automation lover
 
----
-
-## GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatima-ez-zahraa&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatima-ez-zahraa&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatima-ez-zahraa&layout=compact&theme=tokyonight" height="180"/>
-</p>
 
 ---
 
