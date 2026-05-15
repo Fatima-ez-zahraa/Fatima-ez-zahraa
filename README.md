@@ -1,13 +1,12 @@
 # Hi, I’m Fatima ez-zahraa
 
-# ✨ Fatima ez-zahraa
 
 🚀 Software Engineer & Data Analyst  
-📊 Turning data into insights • Building intelligent digital systems • BI & automation lover
+Turning data into insights • Building intelligent digital systems • BI & automation lover
 
 ---
 
-## 📊 GitHub Dashboard
+## GitHub Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fatima-ez-zahraa&show_icons=true&theme=tokyonight" height="180"/>
@@ -28,8 +27,7 @@ I design systems that transform **data into decisions** and applications into **
 
 💡 What I do:
 - 📊 Data analysis & visualization  
-- 📈 BI dashboards & reporting  
-- ⚙️ Backend development & APIs  
+- 📈 BI dashboards & reporting   
 - 🗄️ Database management (Oracle – Junior DBA)  
 - 🤖 Data-driven automation systems  
 
@@ -63,7 +61,7 @@ I design systems that transform **data into decisions** and applications into **
 
 ---
 
-### ⚙️ Full Stack Web App
+###  Full Stack Web App
 <p>
   <img src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -152,15 +150,7 @@ I design systems that transform **data into decisions** and applications into **
     <img src="https://raw.githubusercontent.com/fatima-ez-zahraa/fatima-ez-zahraa/output/snake.svg" alt="Snake animation">
   </picture>
 </p>
-
----
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,anaconda,arduino,c,cs,github,mongodb,mysql,postgres,powershell,pycharm,py,raspberrypi,sklearn,tensorflow,visualstudio,vscode,django,r,linux" />
-  </a>
-</p>  
+ 
  
 --- 
 Thank you for visiting! Feel free to contact me for any collaboration or project. 😊
